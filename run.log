@@ -1,0 +1,20 @@
+[2;36m[04/12/24 04:52:28][0m[2;36m [0m[34mINFO    [0m colossalai - colossalai - INFO:                    
+[2;36m                    [0m         [35m/home/wdebang/hdd/miniconda3/envs/py10/lib/python3.[0m
+[2;36m                    [0m         [35m10/site-packages/colossalai/[0m[95minitialize.py[0m:[1;36m67[0m launch
+[2;36m                   [0m[2;36m [0m[34mINFO    [0m colossalai - colossalai - INFO: Distributed        
+[2;36m                    [0m         environment is initialized, world size: [1;36m4[0m          
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verifiedFiles already downloaded and verified
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Accuracy of the model on the test images: 50.56 %
+
+====== Training on All Nodes =====
+127.0.0.1: success
+
+====== Stopping All Nodes =====
+127.0.0.1: finish
